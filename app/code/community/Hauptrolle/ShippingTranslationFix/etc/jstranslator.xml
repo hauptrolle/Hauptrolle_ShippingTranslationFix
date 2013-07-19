@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<jstranslator>
+    <validate-shipping-methods-required-fix translate="message" module="checkout">
+        <message>Please specify shipping method.</message>
+    </validate-shipping-methods-required-fix>
+</jstranslator>

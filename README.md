@@ -1,0 +1,1 @@
+Allows you to translate the annoying "Please specify shipping method." message
